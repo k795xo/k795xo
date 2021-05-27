@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @k795xo
 - 👀 I’m interested in iOS development
 - 🌱 I’m currently learning mobile product managment 
-- 💞️ I’m looking to collaborate on interessting iOS projects
+- 💞️ I’m looking to collaborate on iOS projects
 - 📫 How to reach me @k_chizhov in telegram
 
 <!---
